@@ -1,0 +1,3 @@
+# Project 2: Classification
+### Using a classification model with the NYC311 data to predict outlier response times
+#### Project 1 used a smaller dataset of survey data, a relatively unreliable source if trying to predict an outcome. In project 2 I hope to build on concepts used in project 1, which will include sourcing data from a cloud location (Aiven using postgreSQL), cross-validating my model with other models (i.e. gradient boost or random forest). And saving the model to Azure where it can source future data. The hope is that Project 2 represents a true "end-to-end" machine learning pipeline.
